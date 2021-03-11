@@ -1,0 +1,9 @@
+[submodule "BaldursGate3"]
+	path = BaldursGate3
+	url = https://github.com/ShadowChild/BaldursGate3.git
+[submodule "Candor-DragonAge"]
+	path = Candor-DragonAge
+	url = https://github.com/InnoxiumTech/Candor-DragonAge.git
+[submodule "Candor-Sims4"]
+	path = Candor-Sims4
+	url = https://github.com/InnoxiumTech/Candor-Sims4.git
